@@ -1,16 +1,42 @@
-# diet
+🚀 Fitness & Diet App
 
-A new Flutter project.
+Fitness & Diet is a Flutter application designed to help users track their fitness progress and manage their diet effectively. 
+The app follows Clean Architecture to ensure a well-structured and scalable codebase. It also utilizes Bloc/Cubit for state management.
 
-## Getting Started
+🛠️ Technologies and Tools Used
 
-This project is a starting point for a Flutter application.
+🏗 Flutter: The core framework for building the application.
 
-A few resources to get you started if this is your first Flutter project:
+📝 Dart: The programming language used.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔄 Bloc/Cubit: For efficient state management.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 ScreenUtil: To make the UI responsive across different screen sizes.
+
+🏛 Clean Architecture: For a well-defined project structure.
+
+▶️ How to Run the Application
+
+Ensure Flutter and Dart are installed on your machine.
+
+Run the following commands in the terminal:
+
+flutter pub get 
+flutter run
+
+✨ Key Features
+
+✅ State management with Bloc/Cubit
+✅ Full screen adaptability using ScreenUtil
+✅ Well-structured code with Clean Architecture
+
+📋 Requirements
+
+🚀 Flutter 3.16.0 or later
+
+💡 Dart 3.0 or later
+
+👨‍💻 Author
+
+Malak Henen
+
